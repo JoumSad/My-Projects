@@ -1,0 +1,13 @@
+body {
+    background-image: url("background.png");
+    background-position: 20px 10px;
+  }
+h1{
+    color: white;
+}
+h3{
+    color: white;
+}
+#text_1{
+    color: white;
+}
